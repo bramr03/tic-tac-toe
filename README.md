@@ -1,1 +1,1 @@
-# tic-tac-toe in the command libe using Ruby
+# tic-tac-toe in the command line using Ruby
